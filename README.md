@@ -11,4 +11,4 @@ A multiplayer vue page hosted on Firebase.
 
 ## Demo
 
-A live demo can be seen at [hamilton-lyrics-vue.firebaseapp.com/](hamilton-lyrics-vue.firebaseapp.com)
+A live demo can be seen at (https://hamilton-lyrics-vue.firebaseapp.com)
